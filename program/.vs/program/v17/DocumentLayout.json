@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\c-\\program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2196A693-9D40-4AFA-9874-5143E3F03779}|class 1st(stream)\\class 1st(stream).vcxproj|C:\\Users\\user\\Desktop\\c-\\program\\class 1st(stream)\\class 1st(stream).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2196A693-9D40-4AFA-9874-5143E3F03779}|class 1st(stream)\\class 1st(stream).vcxproj|solutionrelative:class 1st(stream)\\class 1st(stream).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527F540F-991F-4308-8514-F9C4527EF52A}|program.vcxproj|C:\\Users\\user\\Desktop\\c-\\program\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{527F540F-991F-4308-8514-F9C4527EF52A}|program.vcxproj|solutionrelative:program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "class 1st(stream).cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c-\\program\\class 1st(stream)\\class 1st(stream).cpp",
+              "RelativeDocumentMoniker": "class 1st(stream)\\class 1st(stream).cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c-\\program\\class 1st(stream)\\class 1st(stream).cpp",
+              "RelativeToolTip": "class 1st(stream)\\class 1st(stream).cpp",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-09T10:35:55.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "program.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c-\\program\\program.cpp",
+              "RelativeDocumentMoniker": "program.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c-\\program\\program.cpp",
+              "RelativeToolTip": "program.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-09T09:10:22.03Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
