@@ -7,6 +7,12 @@
       "RelativeMoniker": "D:0:0:{527F540F-991F-4308-8514-F9C4527EF52A}|program.vcxproj|solutionrelative:program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F5FFB219-A9CF-4E57-8497-0A65AC5847E7}|..\\class 4th\\class 4th.vcxproj|C:\\Users\\user\\Desktop\\c-\\class 4th\\class 4th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6273E980-BCDB-42EC-AA29-41E20D62081C}|..\\class 3rd\\class 3rd.vcxproj|C:\\Users\\user\\Desktop\\c-\\class 3rd\\class 3rd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{958F571B-309C-4418-B890-46CB7FB4960D}|..\\class 2nd (class)\\class 2nd (class).vcxproj|C:\\Users\\user\\Desktop\\c-\\class 2nd (class)\\class 2nd (class).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -21,11 +27,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "class 4th.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c-\\class 4th\\class 4th.cpp",
+              "RelativeDocumentMoniker": "..\\class 4th\\class 4th.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c-\\class 4th\\class 4th.cpp",
+              "RelativeToolTip": "..\\class 4th\\class 4th.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T10:37:59.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "class 3rd.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c-\\class 3rd\\class 3rd.cpp",
+              "RelativeDocumentMoniker": "..\\class 3rd\\class 3rd.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c-\\class 3rd\\class 3rd.cpp",
+              "RelativeToolTip": "..\\class 3rd\\class 3rd.cpp",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAADsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T09:02:55.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "class 2nd (class).cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\c-\\class 2nd (class)\\class 2nd (class).cpp",
               "RelativeDocumentMoniker": "..\\class 2nd (class)\\class 2nd (class).cpp",
@@ -33,12 +65,11 @@
               "RelativeToolTip": "..\\class 2nd (class)\\class 2nd (class).cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-13T09:14:04.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T09:14:04.214Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "class 1st(stream).cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\c-\\program\\class 1st(stream)\\class 1st(stream).cpp",
               "RelativeDocumentMoniker": "class 1st(stream)\\class 1st(stream).cpp",
@@ -46,8 +77,7 @@
               "RelativeToolTip": "class 1st(stream)\\class 1st(stream).cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-09T10:35:55.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T10:35:55.796Z"
             },
             {
               "$type": "Document",
@@ -57,7 +87,7 @@
               "RelativeDocumentMoniker": "program.cpp",
               "ToolTip": "C:\\Users\\user\\Desktop\\c-\\program\\program.cpp",
               "RelativeToolTip": "program.cpp",
-              "ViewState": "AQIAADkAAAAAAAAAAAAUwD8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-09T09:10:22.03Z",
               "EditorCaption": ""
