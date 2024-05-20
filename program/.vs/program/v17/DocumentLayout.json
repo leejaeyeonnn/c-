@@ -7,6 +7,30 @@
       "RelativeMoniker": "D:0:0:{527F540F-991F-4308-8514-F9C4527EF52A}|program.vcxproj|solutionrelative:program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{ACF810C8-C0DB-461B-8FEB-4ED5BD13D323}|..\\class 7th(Multiple inheritance)\\class 7th(Multiple inheritance).vcxproj|C:\\Users\\user\\Desktop\\c-\\class 7th(Multiple inheritance)\\class 7th(Multiple inheritance).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF810C8-C0DB-461B-8FEB-4ED5BD13D323}|..\\class 7th(Multiple inheritance)\\class 7th(Multiple inheritance).vcxproj|C:\\Users\\user\\Desktop\\c-\\class 7th(Multiple inheritance)\\Computerr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF810C8-C0DB-461B-8FEB-4ED5BD13D323}|..\\class 7th(Multiple inheritance)\\class 7th(Multiple inheritance).vcxproj|C:\\Users\\user\\Desktop\\c-\\class 7th(Multiple inheritance)\\Keyboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF810C8-C0DB-461B-8FEB-4ED5BD13D323}|..\\class 7th(Multiple inheritance)\\class 7th(Multiple inheritance).vcxproj|C:\\Users\\user\\Desktop\\c-\\class 7th(Multiple inheritance)\\Mouse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF810C8-C0DB-461B-8FEB-4ED5BD13D323}|..\\class 7th(Multiple inheritance)\\class 7th(Multiple inheritance).vcxproj|C:\\Users\\user\\Desktop\\c-\\class 7th(Multiple inheritance)\\Keyboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF810C8-C0DB-461B-8FEB-4ED5BD13D323}|..\\class 7th(Multiple inheritance)\\class 7th(Multiple inheritance).vcxproj|C:\\Users\\user\\Desktop\\c-\\class 7th(Multiple inheritance)\\Computerr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616EA437-DCF1-49E8-8A63-BBEEDE6137BA}|..\\class 6th(pure virtual funtion)\\class 6th(pure virtual funtion).vcxproj|C:\\Users\\user\\Desktop\\c-\\class 6th(pure virtual funtion)\\class 6th(pure virtual funtion).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF810C8-C0DB-461B-8FEB-4ED5BD13D323}|..\\class 7th(Multiple inheritance)\\class 7th(Multiple inheritance).vcxproj|C:\\Users\\user\\Desktop\\c-\\class 7th(Multiple inheritance)\\Mouse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F5FFB219-A9CF-4E57-8497-0A65AC5847E7}|..\\class 4th\\class 4th.vcxproj|C:\\Users\\user\\Desktop\\c-\\class 4th\\class 4th.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -27,11 +51,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Computerr.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c-\\class 7th(Multiple inheritance)\\Computerr.cpp",
+              "RelativeDocumentMoniker": "..\\class 7th(Multiple inheritance)\\Computerr.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c-\\class 7th(Multiple inheritance)\\Computerr.cpp",
+              "RelativeToolTip": "..\\class 7th(Multiple inheritance)\\Computerr.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T10:10:46.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Computerr.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c-\\class 7th(Multiple inheritance)\\Computerr.h",
+              "RelativeDocumentMoniker": "..\\class 7th(Multiple inheritance)\\Computerr.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c-\\class 7th(Multiple inheritance)\\Computerr.h",
+              "RelativeToolTip": "..\\class 7th(Multiple inheritance)\\Computerr.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-20T10:10:42.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Keyboard.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c-\\class 7th(Multiple inheritance)\\Keyboard.cpp",
+              "RelativeDocumentMoniker": "..\\class 7th(Multiple inheritance)\\Keyboard.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c-\\class 7th(Multiple inheritance)\\Keyboard.cpp",
+              "RelativeToolTip": "..\\class 7th(Multiple inheritance)\\Keyboard.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T09:43:36.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Keyboard.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c-\\class 7th(Multiple inheritance)\\Keyboard.h",
+              "RelativeDocumentMoniker": "..\\class 7th(Multiple inheritance)\\Keyboard.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c-\\class 7th(Multiple inheritance)\\Keyboard.h",
+              "RelativeToolTip": "..\\class 7th(Multiple inheritance)\\Keyboard.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-20T09:43:34.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mouse.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c-\\class 7th(Multiple inheritance)\\Mouse.cpp",
+              "RelativeDocumentMoniker": "..\\class 7th(Multiple inheritance)\\Mouse.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c-\\class 7th(Multiple inheritance)\\Mouse.cpp",
+              "RelativeToolTip": "..\\class 7th(Multiple inheritance)\\Mouse.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T09:15:48.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mouse.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c-\\class 7th(Multiple inheritance)\\Mouse.h",
+              "RelativeDocumentMoniker": "..\\class 7th(Multiple inheritance)\\Mouse.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c-\\class 7th(Multiple inheritance)\\Mouse.h",
+              "RelativeToolTip": "..\\class 7th(Multiple inheritance)\\Mouse.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-20T09:15:43.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "class 7th(Multiple inheritance).cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c-\\class 7th(Multiple inheritance)\\class 7th(Multiple inheritance).cpp",
+              "RelativeDocumentMoniker": "..\\class 7th(Multiple inheritance)\\class 7th(Multiple inheritance).cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c-\\class 7th(Multiple inheritance)\\class 7th(Multiple inheritance).cpp",
+              "RelativeToolTip": "..\\class 7th(Multiple inheritance)\\class 7th(Multiple inheritance).cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T09:10:22.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "class 6th(pure virtual funtion).cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\c-\\class 6th(pure virtual funtion)\\class 6th(pure virtual funtion).cpp",
+              "RelativeDocumentMoniker": "..\\class 6th(pure virtual funtion)\\class 6th(pure virtual funtion).cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\c-\\class 6th(pure virtual funtion)\\class 6th(pure virtual funtion).cpp",
+              "RelativeToolTip": "..\\class 6th(pure virtual funtion)\\class 6th(pure virtual funtion).cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T09:05:08.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "class 4th.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\c-\\class 4th\\class 4th.cpp",
               "RelativeDocumentMoniker": "..\\class 4th\\class 4th.cpp",
@@ -43,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "class 3rd.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\c-\\class 3rd\\class 3rd.cpp",
               "RelativeDocumentMoniker": "..\\class 3rd\\class 3rd.cpp",
@@ -55,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "class 2nd (class).cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\c-\\class 2nd (class)\\class 2nd (class).cpp",
               "RelativeDocumentMoniker": "..\\class 2nd (class)\\class 2nd (class).cpp",
@@ -67,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "class 1st(stream).cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\c-\\program\\class 1st(stream)\\class 1st(stream).cpp",
               "RelativeDocumentMoniker": "class 1st(stream)\\class 1st(stream).cpp",
@@ -85,7 +213,7 @@
               "RelativeDocumentMoniker": "program.cpp",
               "ToolTip": "C:\\Users\\user\\Desktop\\c-\\program\\program.cpp",
               "RelativeToolTip": "program.cpp",
-              "ViewState": "AQIAAI4AAAAAAAAAAAAUwF8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-09T09:10:22.03Z",
               "EditorCaption": ""
