@@ -1,2 +1,3 @@
 ﻿  program.cpp
-  program.vcxproj -> C:\Users\user\Desktop\c-\program\x64\Debug\program.exe
+C:\Users\user\Desktop\c-\program\program.cpp(43,22): error C2297: '->*': 오른쪽 피연산자의 유형이 'int'이므로 유효하지 않습니다.
+C:\Users\user\Desktop\c-\program\program.cpp(43,28): error C2059: 구문 오류: ')'
