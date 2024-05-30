@@ -1,5 +1,2 @@
 ﻿  program.cpp
-C:\Users\user\Desktop\c-\program\program.cpp(23,12): error C2061: 구문 오류: 식별자 'Character'
-C:\Users\user\Desktop\c-\program\program.cpp(25,3): error C2065: 'character': 선언되지 않은 식별자입니다.
-C:\Users\user\Desktop\c-\program\program.cpp(25,19): error C2065: 'value': 선언되지 않은 식별자입니다.
-C:\Users\user\Desktop\c-\program\program.cpp(26,12): error C2065: 'value': 선언되지 않은 식별자입니다.
+  program.vcxproj -> C:\Users\user\Desktop\c-\program\x64\Debug\program.exe
