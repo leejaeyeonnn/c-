@@ -1,38 +1,72 @@
 ﻿#include <iostream>
-#include <set>
+
 using namespace std;
 
-int main()
+class Item
 {
+private:
+	int price;
 
-#pragma region 연관 컨테이너
-
-	//컨테이너 내의 자료들이 규칙에 따라 정렬되어 있는 컨테이너입니다.
-	
-	std::set<int> set;
-
-	set.insert(50);
-	set.insert(10);
-	set.insert(80);
-	set.insert(30);
-	set.insert(65);
-	set.insert(45);
-
-	//set의 걍우 key 값이 중복이 되면 값이 그대로 들어옵니다.
-
-
-
-	if (set.find(10)==true) 
+public:
+	Item(int price)
 	{
-
+		cout << "Constructor" << endl;
+		this->price = price;
 	}
 
 
+	Item(Item& item)
+	{
+		cout << "Copy Constructor" << endl;
+		price = item.price;
+	}
+};
 
+class Card
+{
+public:
+	virtual void Skill() = 0;
+	virtual void Effect() = 0;
+	virtual void Show() = 0;
+};
+
+class Legend :Card
+{
+
+};
+int main()
+{
+
+#pragma region R value 와 L value 
+	//L value Type
+	//int data = 10;
+	//
+	//int& left1 = data;
+	//
+
+	//R value type
+	//int count = 0;
+
+	//int&& right1 = 10;
+	//int&& right2 = count;
+
+	//cout << "right1의 값 : " << right1 << endl;
 
 
 #pragma endregion
 
+#pragma region 복사 생략(copy elision)
+	//함수의 반환 값을 모두 사용하거나 초기화하는 경우에
+	//생기는 불필요한 임시 객체를 최적화하거나 제거하는데
+	//사용되는 컴파일러 기술입니다.
+
+	//Item item1(1000);
+	//
+	//Item item2(item1);
+	//
+	//Item item3(Item());
+
+#pragma endregion
 
 	return 0;
 }
